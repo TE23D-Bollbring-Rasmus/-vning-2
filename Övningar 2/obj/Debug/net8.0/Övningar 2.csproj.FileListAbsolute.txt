@@ -1,0 +1,14 @@
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\Övningar\Övning 2\Övningar 2\bin\Debug\net8.0\Övningar 2.exe
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\Övningar\Övning 2\Övningar 2\bin\Debug\net8.0\Övningar 2.deps.json
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\Övningar\Övning 2\Övningar 2\bin\Debug\net8.0\Övningar 2.runtimeconfig.json
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\Övningar\Övning 2\Övningar 2\bin\Debug\net8.0\Övningar 2.dll
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\Övningar\Övning 2\Övningar 2\bin\Debug\net8.0\Övningar 2.pdb
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\Övningar\Övning 2\Övningar 2\obj\Debug\net8.0\Övningar 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\Övningar\Övning 2\Övningar 2\obj\Debug\net8.0\Övningar 2.AssemblyInfoInputs.cache
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\Övningar\Övning 2\Övningar 2\obj\Debug\net8.0\Övningar 2.AssemblyInfo.cs
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\Övningar\Övning 2\Övningar 2\obj\Debug\net8.0\Övningar 2.csproj.CoreCompileInputs.cache
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\Övningar\Övning 2\Övningar 2\obj\Debug\net8.0\Övningar 2.dll
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\Övningar\Övning 2\Övningar 2\obj\Debug\net8.0\refint\Övningar 2.dll
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\Övningar\Övning 2\Övningar 2\obj\Debug\net8.0\Övningar 2.pdb
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\Övningar\Övning 2\Övningar 2\obj\Debug\net8.0\Övningar 2.genruntimeconfig.cache
+C:\Users\rasmus.mattssonboll\Documents\Programmering 1\Övningar\Övning 2\Övningar 2\obj\Debug\net8.0\ref\Övningar 2.dll
