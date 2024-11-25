@@ -13,3 +13,5 @@
 // Console.ReadLine();
 
 string [] cities = [];
+
+while (cities != "exit")
